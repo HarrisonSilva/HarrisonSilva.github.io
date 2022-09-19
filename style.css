@@ -6,25 +6,35 @@
     left: 0%;
 
 } */
+
 .minhaimagem {
 width: 20%;
 border-radius: 50%;
+position: absolute;
 top: 20%;
-left: 40%;
+left: 38%;
 }
 .git {
  width: 5%;
-top: 70%;
-left: 50%;
+position: relative;
+ top: 70%;
+left: 30%;
 }
 .github {
+   position: relative;
     width: 5%;
     top: 69%;
     left: 45%;
 }
 body {
-   background-image: url(./6071843.jpg); 
+   background-image: url(./6071843.jpg) ;
+   background-size: 100%;
+  
 }
- 
+.portifolioimage {
+    width: 30%;
+    position: absolute;
+    top: 1%;
+    left: 33%;
 
-
+}
